@@ -162,7 +162,7 @@
           "categorie": "depense",
           "impact_mds": -5,
           "type_libelle": "Dépense supplémentaire",
-          "source": "PS"
+          "source": "Parti Socialiste"
         },
         {
           "id": "france-fonds-climat",
@@ -170,7 +170,7 @@
           "categorie": "depense",
           "impact_mds": -5,
           "type_libelle": "Dépense supplémentaire",
-          "source": "PS"
+          "source": "Parti Socialiste"
         },
         {
           "id": "grande-transition-eelv",
@@ -187,7 +187,7 @@
           "categorie": "depense",
           "impact_mds": -2.5,
           "type_libelle": "Dépense supplémentaire",
-          "source": "PS"
+          "source": "Parti Socialiste"
         },
         {
           "id": "france-sante",
@@ -195,7 +195,7 @@
           "categorie": "depense",
           "impact_mds": -5,
           "type_libelle": "Dépense supplémentaire",
-          "source": "PS"
+          "source": "Parti Socialiste"
         },
         {
           "id": "france-vss",
@@ -203,7 +203,7 @@
           "categorie": "depense",
           "impact_mds": -3,
           "type_libelle": "Dépense supplémentaire",
-          "source": "PS / Les écologistes",
+          "source": "Parti Socialiste / Les écologistes",
           "note": "Justice 0,9 Md€ ; Police 0,5Md€ ; Santé 0,4 Md€ ; Education et prévention 0,6 Md€ ; Hébergement 0,6 Md€"
         },
         {
@@ -212,7 +212,7 @@
           "categorie": "depense",
           "impact_mds": -2,
           "type_libelle": "Dépense supplémentaire",
-          "source": "PS"
+          "source": "Parti Socialiste"
         },
         {
           "id": "france-education",
@@ -220,7 +220,7 @@
           "categorie": "depense",
           "impact_mds": -2,
           "type_libelle": "Dépense supplémentaire",
-          "source": "PS"
+          "source": "Parti Socialiste"
         },
         {
           "id": "france-petite-enfance",
@@ -236,7 +236,7 @@
           "categorie": "recette",
           "impact_mds": -10,
           "type_libelle": "Recette en moins",
-          "source": "PS"
+          "source": "Parti Socialiste"
         },
         {
           "id": "france-tva-alimentation",
@@ -293,6 +293,15 @@
           "impact_mds": -0.379,
           "type_libelle": "Dépense supplémentaire",
           "source": "Union des employeurs de l'économie sociale et solidaire"
+        },
+        ,
+        {
+          "id": "rn-impots-production",
+          "libelle": "Une baisse des impôts de production (CFE, C3S et CVAE)",
+          "categorie": "recette",
+          "impact_mds": -16.2,
+          "type_libelle": "Recette en moins",
+          "source": "Rassemblement National"
         }
       ]
     },
@@ -386,7 +395,7 @@
           "categorie": "depense",
           "impact_mds": 3.6,
           "type_libelle": "Économie",
-          "source": "PS"
+          "source": "Parti Socialiste"
         },
         {
           "id": "depenses-marges-sante",
@@ -394,7 +403,40 @@
           "categorie": "depense",
           "impact_mds": 4,
           "type_libelle": "Économie",
-          "source": "PS"
+          "source": "Parti Socialiste"
+        },
+        {
+          "id": "depenses-fonctionnaires-EH",
+          "libelle": "Non remplacement de 7000 fonctionnaires en 2027",
+          "categorie": "depense",
+          "impact_mds": 0.450,
+          "type_libelle": "Économie",
+          "source": "Edouard Philippe",
+          "note": "L’année prochaine, 130.000 fonctionnaires partent à la retraite. Il s'agit d'en remplacer uniquement 123.000 pour financer d'autres projets comme les compensations carburants."
+        },
+        {
+          "id": "depenses-associations-rn",
+          "libelle": "Baisse des subventions aux associations 'ne relevant pas de l'intérêt général'",
+          "categorie": "depense",
+          "impact_mds": 3.2,
+          "type_libelle": "Économie",
+          "source": "Rassemblement National"
+        },
+        {
+          "id": "depenses-europe-rn",
+          "libelle": "Coup de rabot de 8,7 milliards sur la contribution française à l’UE",
+          "categorie": "depense",
+          "impact_mds": 8.7,
+          "type_libelle": "Économie",
+          "source": "Rassemblement National"
+        },
+        {
+          "id": "depenses-AME-etrangers-rn",
+          "libelle": "Rabot de l'aide médicale d'Etat et suppression des prestations sociales versées aux étrangers",
+          "categorie": "depense",
+          "impact_mds": 7.4,
+          "type_libelle": "Économie",
+          "source": "Rassemblement National"
         }
       ]
     },
@@ -424,7 +466,7 @@
           "categorie": "recette",
           "impact_mds": 4,
           "type_libelle": "Recette nouvelle",
-          "source": "PS"
+          "source": "Parti Socialiste"
         },
         {
           "id": "optimisations-fraude",
@@ -432,7 +474,7 @@
           "categorie": "recette",
           "impact_mds": 3.5,
           "type_libelle": "Recette nouvelle",
-          "source": "PS"
+          "source": "Parti Socialiste"
         },
         {
           "id": "optimisations-dutreil",
@@ -513,7 +555,7 @@
           "categorie": "recette",
           "impact_mds": 15,
           "type_libelle": "Recette nouvelle",
-          "source": "PS / Les écologistes / LFI"
+          "source": "Parti Socialiste / Les écologistes / LFI"
         },
         {
           "id": "recettes-gafam",
@@ -521,7 +563,7 @@
           "categorie": "recette",
           "impact_mds": 10,
           "type_libelle": "Recette nouvelle",
-          "source": "PS"
+          "source": "Parti Socialiste"
         },
         {
           "id": "recettes-heritages",
@@ -529,7 +571,7 @@
           "categorie": "recette",
           "impact_mds": 10,
           "type_libelle": "Recette nouvelle",
-          "source": "PS"
+          "source": "Parti Socialiste"
         }
       ]
     }
