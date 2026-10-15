@@ -581,7 +581,7 @@
           "categorie": "recette",
           "impact_mds": 9,
           "type_libelle": "Recette nouvelle",
-          "source": "La France Insoumise",
+          "source": "La France Insoumise"
         },
         {
           "id": "recettes-tva",
@@ -622,7 +622,7 @@
           "categorie": "recette",
           "impact_mds": 15,
           "type_libelle": "Recette nouvelle",
-          "source": "Parti Socialiste / Les écologistes / LFI"
+          "source": "Parti Socialiste / Les écologistes / La France Insoumise"
         },
         {
           "id": "recettes-gafam",
