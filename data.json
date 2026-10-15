@@ -255,6 +255,56 @@
           "type_libelle": "Dépense supplémentaire",
           "source": "Les écologistes / Sandra Regol (2024)",
           "note": "Hypothèse de recours au dispositif annuel d'une femme enceinte sur deux."
+        },
+        {
+          "id": "lfi-ministeres-2025",
+          "libelle": "Rétablissement des budgets en baisse des ministères",
+          "categorie": "depense",
+          "impact_mds": -7,
+          "type_libelle": "Dépense supplémentaire",
+          "source": "La France Insoumise",
+          "note": "Les budgets de tous les ministères qui ont baissé depuis 2025 seraient rétablis."
+        },
+        {
+          "id": "lfi-sans-abrisme",
+          "libelle": "Lutte contre le sans-abrisme",
+          "categorie": "depense",
+          "impact_mds": -3,
+          "type_libelle": "Dépense supplémentaire",
+          "source": "La France Insoumise"
+        },
+        {
+          "id": "lfi-chomage",
+          "libelle": "Abrogation de toutes les réformes sur les droits à l'assurance chômage",
+          "categorie": "depense",
+          "impact_mds": -3,
+          "type_libelle": "Dépense supplémentaire",
+          "source": "La France Insoumise"
+        },
+        {
+          "id": "lfi-point-indice",
+          "libelle": "Hausse du point d'indice des fonctionnaires",
+          "categorie": "depense",
+          "impact_mds": -17,
+          "type_libelle": "Dépense supplémentaire",
+          "source": "La France Insoumise"
+        },
+        {
+          "id": "lfi-indexations-apl",
+          "libelle": "Indexation de toutes les pensions et prestations sociales et la hausse des APL de 10 %",
+          "categorie": "depense",
+          "impact_mds": -8,
+          "type_libelle": "Dépense supplémentaire",
+          "source": "La France Insoumise"
+        },
+        {
+          "id": "lfi-logement-livretA",
+          "libelle": "Financer un plan en faveur du logement",
+          "categorie": "depense",
+          "impact_mds": 0,
+          "type_libelle": "Dépense supplémentaire",
+          "source": "La France Insoumise",
+          "note": "Relever le plafond du livret A à 30 000 euros pourrait permettre de mobiliser 30 à 40 milliards pour ce plan."
         }
       ]
     },
@@ -423,11 +473,12 @@
         },
         {
           "id": "depenses-europe-rn",
-          "libelle": "Coup de rabot de 8,7 milliards sur la contribution française à l’UE",
+          "libelle": "Coup de rabot de la contribution française à l’UE",
           "categorie": "depense",
-          "impact_mds": 8.7,
+          "impact_mds": 11,
           "type_libelle": "Économie",
-          "source": "Rassemblement National"
+          "source": "Rassemblement National",
+          "note": "Diminuer de 11 Mds€, puis de dizaines de milliards supplémentaires les années suivantes."
         },
         {
           "id": "depenses-AME-etrangers-rn",
@@ -436,6 +487,15 @@
           "impact_mds": 7.4,
           "type_libelle": "Économie",
           "source": "Rassemblement National"
+        },
+        {
+          "id": "rn-depenses-collectivites",
+          "libelle": "Rabot durable du soutien aux collectivités locales",
+          "categorie": "depense",
+          "impact_mds": 8,
+          "type_libelle": "Économie",
+          "source": "Rassemblement National",
+          "note": "8,2 Mds€ d’économies sur les collectivités locales dès 2027, et jusqu’à 18,4 milliards en 2031."
         }
       ]
     },
@@ -516,6 +576,14 @@
           "note": "De 31.4% à 34.4%"
         },
         {
+          "id": "lfi-recettes-suppression-flat-tax",
+          "libelle": "Suppression de la flat tax",
+          "categorie": "recette",
+          "impact_mds": 9,
+          "type_libelle": "Recette nouvelle",
+          "source": "La France Insoumise",
+        },
+        {
           "id": "recettes-tva",
           "libelle": "Hausse de la TVA à 22,3 % (TVA dite « sociale »)",
           "categorie": "recette",
@@ -562,7 +630,15 @@
           "categorie": "recette",
           "impact_mds": 10,
           "type_libelle": "Recette nouvelle",
-          "source": "Parti Socialiste"
+          "source": "Parti Socialiste & La France Insoumise"
+        },
+        {
+          "id": "lfi-recettes-is",
+          "libelle": "Plus de progressivité dans l'impôt sur les sociétés",
+          "categorie": "recette",
+          "impact_mds": 3,
+          "type_libelle": "Recette nouvelle",
+          "source": "La France Insoumise"
         },
         {
           "id": "recettes-heritages",
@@ -571,6 +647,22 @@
           "impact_mds": 10,
           "type_libelle": "Recette nouvelle",
           "source": "Parti Socialiste"
+        },
+        {
+          "id": "lfi-recettes-transactions-fin",
+          "libelle": "Création d'une nouvelle taxe sur les transactions financières",
+          "categorie": "recette",
+          "impact_mds": 5,
+          "type_libelle": "Recette nouvelle",
+          "source": "La France Insoumise"
+        },
+        {
+          "id": "rn-recettes-rachats-actions",
+          "libelle": "Création d'une nouvelle taxe sur les rachats d'actions",
+          "categorie": "recette",
+          "impact_mds": 11,
+          "type_libelle": "Recette nouvelle",
+          "source": "Rassemblement National"
         }
       ]
     }
