@@ -581,7 +581,7 @@
           "categorie": "recette",
           "impact_mds": 9,
           "type_libelle": "Recette nouvelle",
-          "source": "La France Insoumise"
+          "source": "La France Insoumise / Attac"
         },
         {
           "id": "recettes-tva",
@@ -622,7 +622,7 @@
           "categorie": "recette",
           "impact_mds": 15,
           "type_libelle": "Recette nouvelle",
-          "source": "Parti Socialiste / Les écologistes / La France Insoumise"
+          "source": "Parti Socialiste / Les écologistes / La France Insoumise / Attac"
         },
         {
           "id": "recettes-gafam",
@@ -663,6 +663,24 @@
           "impact_mds": 11,
           "type_libelle": "Recette nouvelle",
           "source": "Rassemblement National"
+        },
+        {
+          "id": "attac-recettes-isf-renové",
+          "libelle": "Instauration d'un ISF rénové",
+          "categorie": "recette",
+          "impact_mds": 20,
+          "type_libelle": "Recette nouvelle",
+          "source": "Attac",
+          "note": "Un ISF renové serait progressif et concernerait l'ensemble du patrimoine (actifs financiers, yachts et autres possessions mobilières, immobilier, etc.)."
+        },
+        {
+          "id": "attac-recettes-profits",
+          "libelle": "Création d'une taxe sur les profits excessifs",
+          "categorie": "recette",
+          "impact_mds": 20,
+          "type_libelle": "Recette nouvelle",
+          "source": "Attac",
+          "note": "Il s'agit de taxer les profits excessifs liés à la guerre et ses conséquences, par ex. des multinationales pétrolières."
         }
       ]
     }
